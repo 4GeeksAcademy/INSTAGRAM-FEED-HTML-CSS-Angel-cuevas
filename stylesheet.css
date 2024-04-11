@@ -53,13 +53,14 @@ h2 {
 }
 #coment{
     box-sizing: content-box;  
-    width: 425px;
+    width: 420px;
     height: 25px;
      border: 2px solid green;
      margin-top: 252px;
      padding-bottom: 17px;
      padding-top: 7px;
      margin-left: -2px;
+     padding-left: 5px;
     background-color:rgb(248, 246, 244) ;
 }
 #img1 {
@@ -103,13 +104,14 @@ h2 {
 }
 #coment2{
     box-sizing: content-box;  
-    width: 425px;
+    width: 420px;
     height: 25px;
      border: 2px solid green;
      margin-top: 252px;
      padding-bottom: 17px;
      padding-top: 7px;
      margin-left: -2px;
+     padding-left: 5px;
     background-color:rgb(248, 246, 244) ;
 }
 #img12 {
@@ -153,13 +155,14 @@ h2 {
 }
 #coment3{
     box-sizing: content-box;  
-    width: 425px;
+    width: 420px;
     height: 25px;
      border: 2px solid green;
      margin-top: 252px;
      padding-bottom: 17px;
      padding-top: 7px;
      margin-left: -2px;
+     padding-left: 5px;
     background-color:rgb(248, 246, 244) ;
 }
 #img13 {
