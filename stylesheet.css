@@ -18,7 +18,7 @@ h1 {
     margin-top: 10px;
 }
 h2 {
-    font-size: small;
+    font-size:medium;
 }
 
 .feedprincipal{
@@ -32,10 +32,10 @@ h2 {
 }
 .h1fd{
     box-sizing: content-box;  
-  width: 425px;
+  width: 432px;
   height: 20px;
    border: 2px solid green;
-  margin-left: -115px;
+  margin-left: -118px;
   margin-top: -115px;
   padding-bottom: 20px;
   position: relative;
@@ -49,14 +49,14 @@ h2 {
     font-size: x-small;
     color: grey;
     margin-left: 398px;
-    margin-top: -25px;
+    margin-top: -27px;
 }
 #coment{
     box-sizing: content-box;  
-    width: 420px;
+    width: 427px;
     height: 25px;
      border: 2px solid green;
-     margin-top: 252px;
+     margin-top: 247px;
      padding-bottom: 17px;
      padding-top: 7px;
      margin-left: -2px;
@@ -66,11 +66,11 @@ h2 {
 #img1 {
     object-fit:fill;
     box-sizing: content-box;
-    width: 425px;
-    height: 225px;
+    width: 432px;
+    height: 227px;
     border: 2px solid green;
     margin-top: 2px;
-    margin-left: -115px;
+    margin-left: -118px;
 }
 .feedprincipal2{
     box-sizing: content-box;  
@@ -83,10 +83,10 @@ h2 {
 }
 .h1fd2{
     box-sizing: content-box;  
-  width: 425px;
+  width: 432px;
   height: 20px;
    border: 2px solid green;
-  margin-left: -115px;
+  margin-left: -118px;
   margin-top: -115px;
   padding-bottom: 20px;
   position: relative;
@@ -100,14 +100,14 @@ h2 {
     font-size: x-small;
     color: grey;
     margin-left: 398px;
-    margin-top: -25px;
+    margin-top: -27px;
 }
 #coment2{
     box-sizing: content-box;  
-    width: 420px;
+    width: 427px;
     height: 25px;
      border: 2px solid green;
-     margin-top: 252px;
+     margin-top: 247px;
      padding-bottom: 17px;
      padding-top: 7px;
      margin-left: -2px;
@@ -117,11 +117,11 @@ h2 {
 #img12 {
     object-fit:fill;
     box-sizing: content-box;
-    width: 425px;
-    height: 225px;
+    width: 432px;
+    height: 227px;
     border: 2px solid green;
     margin-top: 2px;
-    margin-left: -115px;
+    margin-left: -118px;
 }
 .feedprincipal3{
     box-sizing: content-box;  
@@ -134,10 +134,10 @@ h2 {
 }
 .h1fd3{
     box-sizing: content-box;  
-  width: 425px;
+  width: 432px;
   height: 20px;
    border: 2px solid green;
-  margin-left: -115px;
+  margin-left: -118px;
   margin-top: -115px;
   padding-bottom: 20px;
   position: relative;
@@ -151,14 +151,14 @@ h2 {
     font-size: x-small;
     color: grey;
     margin-left: 398px;
-    margin-top: -25px;
+    margin-top: -27px;
 }
 #coment3{
     box-sizing: content-box;  
-    width: 420px;
+    width: 427px;
     height: 25px;
      border: 2px solid green;
-     margin-top: 252px;
+     margin-top: 247px;
      padding-bottom: 17px;
      padding-top: 7px;
      margin-left: -2px;
@@ -168,9 +168,9 @@ h2 {
 #img13 {
     object-fit:fill;
     box-sizing: content-box;
-    width: 425px;
-    height: 225px;
+    width: 432px;
+    height: 227px;
     border: 2px solid green;
     margin-top: 2px;
-    margin-left: -115px;
+    margin-left: -118px;
 }
